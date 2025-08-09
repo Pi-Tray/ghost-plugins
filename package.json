@@ -1,0 +1,20 @@
+{
+  "name": "@pi-tray/ghost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "obfuscatedgenerated",
+  "license": "MIT",
+  "devDependencies": {
+    "pi-tray-server": "github:pi-tray/server",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@jitsi/robotjs": "^0.6.17"
+  }
+}
