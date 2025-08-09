@@ -1,8 +1,17 @@
 # @pi-tray/ghost 👻
 
+## Installation
+
+### From server root
+
+```bash
+npm run plugin:npm install https://github.com/Pi-Tray/ghost-plugins#release
+```
+
+### From plugin-env
+
 ```sh
-cd plugin-env
-npm i https://github.com/Pi-Tray/ghost-plugins#release
+npm install https://github.com/Pi-Tray/ghost-plugins#release
 ```
 
 ## Plugins
