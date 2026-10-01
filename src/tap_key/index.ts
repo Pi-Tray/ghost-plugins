@@ -10,7 +10,7 @@ export default {
     config_template: {
         key: {
             type: "string",
-            description: "The name of the key to press. See https://web.archive.org/web/20161019170550/http://robotjs.io/docs/syntax#keys for a list."
+            description: "The name of the key to press. See [here](https://web.archive.org/web/20161019170550/http://robotjs.io/docs/syntax#keys) for a list."
         },
         modifiers: {
             type: "array",
