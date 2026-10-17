@@ -1,5 +1,5 @@
 
-name: Build, flatten, push
+name: Build, flatten, push (legacy)
 
 permissions:
   contents: write

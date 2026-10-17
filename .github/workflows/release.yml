@@ -1,0 +1,13 @@
+name: Release
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    uses: Pi-Tray/Pi-Tray/.github/workflows/plugin-release.yml@plugin-build-v0.1.0-alpha

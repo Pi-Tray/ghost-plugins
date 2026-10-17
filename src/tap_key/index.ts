@@ -1,4 +1,4 @@
-import type { Plugin } from "pi-tray-server/src/types";
+import type { Plugin } from "@pi-tray/types";
 
 import robot from "@jitsi/robotjs";
 
