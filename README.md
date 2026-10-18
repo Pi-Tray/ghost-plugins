@@ -8,19 +8,6 @@
     <img width=300 alt="One click install @pi-tray/ghost with Pi-Tray Editor" src="https://raw.githubusercontent.com/Pi-Tray/Pi-Tray/refs/heads/main/branding/express_button.svg" />
 </a>
 
-
-### From server root
-
-```bash
-npm run plugin:npm install https://github.com/Pi-Tray/ghost-plugins#release
-```
-
-### From plugin-env
-
-```sh
-npm install https://github.com/Pi-Tray/ghost-plugins#release
-```
-
 ## Plugins
 
 ### @pi-tray/ghost/tap_key
