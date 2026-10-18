@@ -4,8 +4,8 @@
 
 ### One click
 
-<a target="_blank" rel="noreferrer noopener" href="https://pi-tray.github.io/express-redirect/?pkgname=@pi-tray/ghost">
-    <img width=300 alt="One click install @pi-tray/ghost with Pi-Tray Editor" src="https://raw.githubusercontent.com/Pi-Tray/express-list/refs/heads/main/express_button.svg" />
+<a target="_blank" rel="noreferrer noopener" href="https://pi-tray.github.io/express-redirect/?spec=pi-tray/ghost-plugins">
+    <img width=300 alt="One click install @pi-tray/ghost with Pi-Tray Editor" src="https://raw.githubusercontent.com/Pi-Tray/Pi-Tray/refs/heads/main/branding/express_button.svg" />
 </a>
 
 
